@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
           <div>
             <div className="flex justify-center text-teal-600 sm:justify-start text-4xl">
-              NAWI
+              <img src="https://i.imgur.com/haEClpi.png" alt="logo" />
             </div>
 
             <p
